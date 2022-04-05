@@ -1,3 +1,5 @@
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/103006990/161662160-b32eaaa3-a973-45a3-a2e0-e0fda2bf4e6d.png">
+
 ## Hey everyone 👋
 
 I'm a **Technical Writer** currently located in Virginia Beach, VA 🏖️. I throughly enjoy drafting and editing technical documents, producing marketing literature, and formatting technical presentations. If you are interested in checking out my current portfolio, go have a look [here](https://github.com/alanna-hagedorn/portfolio)!
