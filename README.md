@@ -2,7 +2,7 @@
 
 ## Hey everyone 👋
 
-I'm a **Technical Writer** currently located in Virginia Beach, VA 🏖️. I throughly enjoy drafting and editing technical documents, producing marketing literature, and formatting technical presentations. Check out my work and contact me below!
+I'm a **Technical Writer** currently located in Virginia Beach, VA 🏖️. I enjoy drafting and editing technical documents, producing marketing literature, and formatting technical presentations. Check out my work below!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alanna-hagedorn/portfolio)
 [![Gmail: Alanna Hagedorn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanna.hagedorn@gmail.com)
