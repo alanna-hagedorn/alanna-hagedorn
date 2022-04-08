@@ -14,4 +14,3 @@ I'm a **Technical Writer** currently located in Virginia Beach, VA 🏖️. I en
 - ✍️ I'm currently working as a **Senior Technical Publications Specialist @ ChemTreat**
 - 🌱 I’m currently exploring **Swift and API Documentation**
 - 👩🏼‍💻 I'm open to new opportunities and always looking for a new challenge!
-- 🏃‍♀️ I'm always finding time to take a run or get outside for a nice walk 🌞
